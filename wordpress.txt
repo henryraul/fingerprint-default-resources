@@ -1,0 +1,7 @@
+sitemap.xml
+wp-admin/admin-ajax.php
+wp-login.php
+robots.txt
+licence.txt
+xmlrpc.php
+wp-admin/install.php
