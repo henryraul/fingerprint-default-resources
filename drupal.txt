@@ -1,0 +1,12 @@
+/CHANGELOG.txt
+/install.php
+/INSTALL.txt
+/INSTALL.mysql.txt
+/INSTALL.pgsql.txt
+/INSTALL.sqlite.txt
+/LICENSE.txt 
+/MAINTAINERS.txt
+/README.txt
+/sites/all/modules/README.txt
+/sites/all/themes/README.txt
+/UPGRADE.txt
